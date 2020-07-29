@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.information input[type="text"] {
+    
+    border-style: solid;
+    border-color: blue;
+    margin: 10px 1em;
+    width: 25%;
+    border-radius: 5px;
+}
+
